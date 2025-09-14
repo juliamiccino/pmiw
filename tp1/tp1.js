@@ -1,4 +1,5 @@
-
+// 
+// Comision 1 - Julia Miccino 
 let referencia;
 let colorFondo;
 let colorFiguraR;
@@ -6,7 +7,6 @@ let colorFiguraG;
 let colorFiguraB;
 
 function preload() {
-  // Cargar imagen antes de iniciar
   referencia = loadImage("assets/ImagenReferencia.png");
 }
 
