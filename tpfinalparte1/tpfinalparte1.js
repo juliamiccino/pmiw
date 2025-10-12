@@ -1,3 +1,5 @@
+//comision 1 - Matias Arias Julia Miccino
+// https://www.youtube.com/watch?v=EjiXZ3iGxf8
 let pantallaActual = 0;
 let pantallas = [];
 let archivos = [
@@ -115,5 +117,6 @@ function mousePressed() {
    if (mouseButton === LEFT && click) {
     click.play();
 }}
+
 
 
