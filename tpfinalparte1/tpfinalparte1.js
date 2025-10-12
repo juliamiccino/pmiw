@@ -24,7 +24,7 @@ let textos = [
   "Final : La esposa de Braling se despierta al sentir un beso. Sorprendida, comenta que él no hacía eso desde hace años. La voz que responde no es la de su marido… es la de Braling Dos.",
   "Final : Braling logra escapar y llamar a Marionetas S.A. para que desactiven a Braling Dos antes de que actúe. Decide no viajar, enfrenta a su esposa, y juntos descubren cómo su relación llegó a ese punto. Empiezan un cambio real",
   "Final : Smith, animado por el ejemplo, va a la empresa… y semanas después, su propio doble lo reemplaza. Nettie, también marioneta, se queda con el nuevo “Smith”, mientras el original es eliminado.",
-  "Gracias por jugar. Presiona reiniciar para volver al inicio"
+  "Gracias por jugar. Presiona reiniciar para volver al inicio. Julia Miccino - Matias Arias - Comision 1. Una obra de Ray Bradbury"
 ];
 
 let decisiones = [
@@ -115,3 +115,4 @@ function mousePressed() {
    if (mouseButton === LEFT && click) {
     click.play();
 }}
+
