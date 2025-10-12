@@ -1,10 +1,10 @@
 let pantallaActual = 0;
 let pantallas = [];
 let archivos = [
-  "Pantalla_0.jpeg", "Pantalla_1.png","Pantalla_2.png","Pantalla_3.png","Pantalla_4.png","Pantalla_5.png", 
-  "Pantalla_6.png","Pantalla_7.png","Pantalla_8.png","Pantalla_9.png","Pantalla_10.png","Pantalla_11.png",
-  "Pantalla_12.png","Pantalla_13_FinalOriginal.png", "Pantalla_14_FinalBueno.png","Pantalla_15_FinalMalo.jpeg",
-  "Pantalla_16.jpeg"               
+   "Pantalla_0.jpeg", "Pantalla_1.jpg","Pantalla_2.jpg","Pantalla_3.jpg","Pantalla_4.jpg","Pantalla_5.jpg", 
+  "Pantalla_6.jpg","Pantalla_7.jpg","Pantalla_8.jpg","Pantalla_9.jpg","Pantalla_10.jpg","Pantalla_11.jpg",
+  "Pantalla_12.jpg","Pantalla_13_FinalOriginal.jpg", "Pantalla_14_FinalBueno.jpg","Pantalla_15_FinalMalo.jpeg",
+  "Pantalla_16.jpeg               
 ];
 
 let textos = [
@@ -115,4 +115,5 @@ function mousePressed() {
    if (mouseButton === LEFT && click) {
     click.play();
 }}
+
 
